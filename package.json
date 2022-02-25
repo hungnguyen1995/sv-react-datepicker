@@ -73,7 +73,7 @@
   ],
   "license": "ISC",
   "main": "lib/index.js",
-  "name": "react-bootstrap-datetimerangepicker",
+  "name": "sv-react-bootstrap-datetimerangepicker",
   "peerDependencies": {
     "jquery": ">=1.11.3",
     "react": ">=0.14.0",
